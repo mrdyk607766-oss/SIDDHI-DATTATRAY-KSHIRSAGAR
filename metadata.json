@@ -1,0 +1,9 @@
+{
+  "name": "Copy of GlobalSolve: Expert Connect",
+  "description": "A worldwide community platform for sharing genuine problems and receiving expert solutions, powered by Gemini intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
